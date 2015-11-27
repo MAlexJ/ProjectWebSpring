@@ -17,7 +17,7 @@
 
                     <div class="widget-body">
                         <p class="follow-me-icons">
-                            <a href=""><i class="fa fa-github fa-2"></i></a>
+                            <a href="http://github.com/MAlexJ/ProjectWebSpring"><i class="fa fa-github fa-2"></i></a>
                         </p>
                     </div>
                 </div>
