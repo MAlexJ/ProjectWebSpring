@@ -121,8 +121,8 @@
 
 <div class="row">
     <div class="col-md-12">
-        <button type="button" class="btn btn-danger">
+        <a href="${pageContext.request.contextPath}/disconnect" type="button" class="btn btn-danger" id="exit">
             <i class="fa fa-power-off"></i> Exit
-        </button>
+        </a>
     </div>
 </div>

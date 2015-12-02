@@ -12,6 +12,6 @@ public class HelpController {
     @RequestMapping(value = "/help", method = RequestMethod.GET)
     public String showPageGET(Model model) {
         model.addAttribute("currentPage", "help");
-        return Constant.CURRENT_PAGE;
+        return Constant.PAGE;
     }
 }
